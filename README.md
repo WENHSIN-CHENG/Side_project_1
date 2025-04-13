@@ -60,7 +60,7 @@
 - 更理解資料分析在實務情境中的應用價值
 
 ---
-![](/Users/wenhsincheng/Downloads/output.png)
+![](../Downloads/output.png)
 
 ![](/Users/wenhsincheng/Downloads/output (1).png)
 
