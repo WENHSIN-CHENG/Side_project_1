@@ -60,10 +60,10 @@
 - 更理解資料分析在實務情境中的應用價值
 
 ---
-![](../Downloads/output.png)
+![](../Downloads/sj_1.png)
 
-![](/Users/wenhsincheng/Downloads/output (1).png)
+![](../Downloads/sj_2.png)
 
-![](output(2).png)
+![](../Downloads/sj_3.png)
 
-![](output(3).png)
+![](../Downloads/sj_4.png)
