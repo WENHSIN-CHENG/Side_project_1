@@ -60,4 +60,10 @@
 - 更理解資料分析在實務情境中的應用價值
 
 ---
+![](output.png)
 
+![](output(1).png)
+
+![](output(2).png)
+
+![](output(3).png)
